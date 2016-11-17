@@ -1,0 +1,10 @@
+*.uasset
+*.log
+Saved/StagedBuilds/WindowsNoEditor/ShotgunKnight/CookedIniVersion.txt
+*.txt
+Saved/StagedBuilds/WindowsNoEditor/ShotgunKnight/Saved/Config/WindowsNoEditor/Compat.ini
+*.ini
+Saved/StagedBuilds/WindowsNoEditor/ShotgunKnight/ShotgunKnight.uproject
+*.bin
+Saved/Autosaves/PackageRestoreData.json
+Saved/AutoScreenshot.png
