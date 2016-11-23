@@ -8,3 +8,10 @@ Saved/StagedBuilds/WindowsNoEditor/ShotgunKnight/ShotgunKnight.uproject
 *.bin
 Saved/Autosaves/PackageRestoreData.json
 Saved/AutoScreenshot.png
+*.umap
+Saved/Config/WorldState/1679976186.json
+*.runtime-xml
+Saved/Logs/UE4CC-Windows-8A72C5EE4A8975F6AF83168AA10CF1FE_0000/UE4Minidump.dmp
+*.dmp
+Saved/Config/WorldState/3892030880.json
+*.sav
